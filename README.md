@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Minimal I3C target to I2C bridge
+# Minimal I3C Target to I2C Bridge
 
 - [Read the documentation for project](docs/info.md)
 
